@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1753302259 source:c:\users\pauli\onedrive\desktop\proyectos\proyecto\main.c
+	"stb_image.h"
+	"stb_image_write.h"
+	<stdio.h>
+	<stdlib.h>
+
+1753298885 c:\users\pauli\onedrive\desktop\proyectos\proyecto\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1753298892 c:\users\pauli\onedrive\desktop\proyectos\proyecto\stb_image_write.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
